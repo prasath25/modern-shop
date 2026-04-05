@@ -1,0 +1,8 @@
+/* App-specific styles */
+.smooth-transition {
+  transition: all 0.3s ease-in-out;
+}
+
+.gradient-primary {
+  background: linear-gradient(135deg, #3B82F6 0%, #1e40af 100%);
+}
