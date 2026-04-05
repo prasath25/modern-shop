@@ -1,9 +1,4 @@
-## Project Overview
-
-This project is a modern, responsive e-commerce application built with **Vite**, **React**, and **Tailwind CSS**. It serves as a demonstration of a premium e-commerce storefront, showcasing best practices in modern front-end development. The application features a beautiful grid layout of product cards, comprehensive detailed product pages, and aims to provide a seamless and engaging shopping experience.
-
-### 🌟 Features
-
+## 🌟 Features
 ✅ **Responsive Design** - Works perfectly on mobile, tablet, and desktop  
 ✅ **Product Grid** - Beautiful grid layout with product cards  
 ✅ **Product Details** - Comprehensive product information page  
@@ -14,8 +9,12 @@ This project is a modern, responsive e-commerce application built with **Vite**,
 ✅ **Modern UI** - Clean and stylish design with Tailwind CSS  
 ✅ **Fast Performance** - Built with Vite for optimal speed
 
-## Dependencies
+## Project Overview
+This project is a modern, responsive e-commerce application built with **Vite**, **React**, and **Tailwind CSS**. It serves as a demonstration of a premium e-commerce storefront, showcasing best practices in modern front-end development. The application features a beautiful grid layout of product cards, comprehensive detailed product pages, and aims to provide a seamless and engaging shopping experience.
 
+#
+
+## Dependencies
 This project relies on the following key technologies and libraries:
 
 **Core Technologies:**
@@ -40,7 +39,6 @@ Before running this project, ensure you have the following installed on your mac
 *   **npm** or **Yarn:** Package manager (npm comes with Node.js).
 
 ## Components / Classes / Functions
-
 The project follows a standard React application structure, designed for maintainability and scalability. Below is a high-level overview of the `src` directory:
 
 ```
@@ -60,7 +58,6 @@ src/
 ```
 
 ## API Services
-
 This e-commerce application is designed to interact with a backend API to fetch product data, handle cart operations, and manage user authentication.
 
 *   **Data Source:** The application is configured to consume a RESTful API. For local development, it can be easily configured to use a mock API (e.g., a local JSON server or a `data.json` file) or an actual backend service.
@@ -70,7 +67,6 @@ This e-commerce application is designed to interact with a backend API to fetch 
 To ensure full functionality, ensure that the corresponding backend service is running and accessible at the configured API base URL.
 
 ## Configuration
-
 The project utilizes environment variables for sensitive information and configurable settings. These variables are loaded by Vite during development and build processes.
 
 **Environment Variables:**
@@ -85,7 +81,6 @@ The project utilizes environment variables for sensitive information and configu
 3.  These variables can then be accessed in your React components or service files using `import.meta.env.VITE_YOUR_VARIABLE_NAME`.
 
 ## Setup & Run
-
 Follow these steps to get the Modern Shop e-commerce application up and running on your local machine:
 
 1.  **Clone the Repository:**
@@ -125,6 +120,8 @@ Follow these steps to get the Modern Shop e-commerce application up and running 
     This will generate optimized static assets in the `dist` directory, ready for deployment.
 
 ## Change History
+#
 
-### Version 1.0.1 - [Date of Update]
+## Version 1.0.1 - [Date of Update]
 *   **Project Title Update:** Shortened the application title from "Modern Shop - Premium E-Commerce Store" to "Modern Shop - Premium E-Commerce" for conciseness.
+
