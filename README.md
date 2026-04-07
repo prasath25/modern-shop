@@ -1,1 +1,1 @@
-This the react app
+This the react app as dummy one without complete details.
